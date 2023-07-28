@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/qimao.github.io/static/css/main.abd64e84.css",
-    "main.js": "/qimao.github.io/static/js/main.29cf5bc2.js",
-    "static/media/logo.svg": "/qimao.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/qimao.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/qimao.github.io/static/js/main.0809f1d9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/qimao.github.io/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/qimao.github.io/index.html",
-    "main.abd64e84.css.map": "/qimao.github.io/static/css/main.abd64e84.css.map",
-    "main.29cf5bc2.js.map": "/qimao.github.io/static/js/main.29cf5bc2.js.map"
+    "main.e6c13ad2.css.map": "/qimao.github.io/static/css/main.e6c13ad2.css.map",
+    "main.0809f1d9.js.map": "/qimao.github.io/static/js/main.0809f1d9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/qimao.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.29cf5bc2.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0809f1d9.js"
   ]
 }
